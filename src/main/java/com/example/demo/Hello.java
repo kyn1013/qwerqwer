@@ -2,8 +2,9 @@ package com.example.demo;
 
 public class Hello {
     public static void main(String[] args) {
-        System.out.println("저는 이렇게 바꾸고 싶어요");
-        System.out.println("저는 이렇게 바꾸고 싶어요2");
+        System.out.println("마스터에서 실행");
+        System.out.println("예나 브랜치에서 추가한 내용");
+        System.out.println("마스터에서 하나 더 추가");
     }
 
 }
